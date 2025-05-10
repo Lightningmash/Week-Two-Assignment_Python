@@ -17,7 +17,7 @@ my_list.extend([50, 60, 70])
 my_list.pop()
 
 #Sort my_list in ascending order.
-my_list.sort
+my_list.sort()
 
 #Find and print the index of the value 30 in my_list.
 index_of_30 = my_list.index(30)
